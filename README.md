@@ -30,17 +30,6 @@ A leitura do sensor é feita via porta analógica e, com base no valor, os LEDs 
 
 ---
 
-## ▶️ Demonstração em Vídeo
-
-📹 [Link para o vídeo demonstrativo no YouTube](https://www.youtube.com/seu-video-aqui)
-
----
-
-## 🧪 Teste o Projeto Você Mesmo
-
-💻 Simulação no Tinkercad:  
-🔗 [Clique aqui para abrir o circuito](https://www.tinkercad.com/seu-projeto-aqui)
-
 ### Passos:
 1. Clique em “Start Simulation”.
 2. Gire o potenciômetro (sensor de nível).
